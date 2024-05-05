@@ -1,0 +1,5 @@
+datasets==2.15.0
+transformers
+numpy
+pandas
+peft
